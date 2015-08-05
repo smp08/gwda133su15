@@ -16,8 +16,8 @@ font-size: 48px;
 
 nav {
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 50px;
+  right: 300px;
 }
 
 nav a{
@@ -26,6 +26,7 @@ nav a{
   background-color: rgba(255, 0, 0, 0.64);
   border-radius: 3px;
   padding: 5px;
+  margin: 10px;
 }
 
 nav a:visited{
