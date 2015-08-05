@@ -16,4 +16,12 @@ font-size: 48px;
 
 nav a{
   color: #FFF;
+  text-decoration: none;
+  background-color: #F00;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+nav a:visited{
+  color: #FFF;
 }
