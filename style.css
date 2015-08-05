@@ -17,7 +17,7 @@ font-size: 48px;
 nav a{
   color: #FFF;
   text-decoration: none;
-  background-color: #F00;
+  background-color: rgba(255, 0, 0, 0.64);
   border-radius: 3px;
   padding: 5px;
 }
