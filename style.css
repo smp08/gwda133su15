@@ -46,4 +46,21 @@ section a{
   padding: 20px;
   text-decoration: none;
   text-transform: uppercase;
+  border-radius: 3px;
+}
+
+section {
+  position: relative;
+}
+
+section a {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  margin: -70px 0 0 -170px;
 }
