@@ -39,3 +39,9 @@ section {
   height: 250px;
   width: 100%;
 }
+
+section a{
+  color: #FFF;
+  border: 1px solid #fff;
+  padding: 20px;
+}
